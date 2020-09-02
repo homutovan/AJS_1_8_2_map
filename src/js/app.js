@@ -1,1 +1,1 @@
-console.log('app worked');
+import ErrorRepository from './errorrepository';
